@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\pruebas\\Pruebas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AD5269-8DD0-4805-84EE-625046C01389}|Pruebas\\Pruebas.csproj|c:\\users\\usuario\\onedrive\\documentos\\pruebas\\pruebas\\pruebas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AD5269-8DD0-4805-84EE-625046C01389}|Pruebas\\Pruebas.csproj|solutionrelative:pruebas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AD5269-8DD0-4805-84EE-625046C01389}|Pruebas\\Pruebas.csproj|c:\\users\\usuario\\onedrive\\documentos\\pruebas\\pruebas\\pruebas\\prueba0_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AD5269-8DD0-4805-84EE-625046C01389}|Pruebas\\Pruebas.csproj|solutionrelative:pruebas\\prueba0_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AD5269-8DD0-4805-84EE-625046C01389}|Pruebas\\Pruebas.csproj|c:\\users\\usuario\\onedrive\\documentos\\pruebas\\pruebas\\pruebas\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AD5269-8DD0-4805-84EE-625046C01389}|Pruebas\\Pruebas.csproj|solutionrelative:pruebas\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\pruebas\\Pruebas\\Pruebas\\Nave.cs",
+              "RelativeDocumentMoniker": "Pruebas\\Nave.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\pruebas\\Pruebas\\Pruebas\\Nave.cs",
+              "RelativeToolTip": "Pruebas\\Nave.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:05:54.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prueba0_1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\pruebas\\Pruebas\\Pruebas\\prueba0_1.cs",
+              "RelativeDocumentMoniker": "Pruebas\\prueba0_1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\pruebas\\Pruebas\\Pruebas\\prueba0_1.cs",
+              "RelativeToolTip": "Pruebas\\prueba0_1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:20:43.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\pruebas\\Pruebas\\Pruebas\\Program.cs",
+              "RelativeDocumentMoniker": "Pruebas\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\pruebas\\Pruebas\\Pruebas\\Program.cs",
+              "RelativeToolTip": "Pruebas\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:15:53.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
